@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre Mim  
 🎓 **Formação:**  
-- Formado em **Análise de Sistemas**.  
+- Formado em **Análise e Desenvolvimento de Sistemas**.  
 - Cursando **Ciências da Computação** e **Ciências Contábeis**.  
 
 💻 **Profissão:**  
