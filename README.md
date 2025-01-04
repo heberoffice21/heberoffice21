@@ -1,9 +1,19 @@
-## Hi there 👋
 
-<!--
-**heberoffice21/heberoffice21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![1736022321400 png](https://github.com/user-attachments/assets/3df956c1-537a-4d06-9929-6cfb3e073cbc)
 
-Here are some ideas to get you started:
+
+
+
+<title>Heber Santana </title>
+
+<a href="https://www.linkedin.com/in/heber-santana-4583b6228/" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
+ 
+"Tenho 33 anos, sou do Guarujá, São Paulo, e sou apaixonada por programação! Sou uma pessoa 
+aventureira e sonhadora no universo da tecnologia, sempre em busca de novos desafios e aprendizados."
+
+🖥️ Tecnologias e Ferramentas:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
