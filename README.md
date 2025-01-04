@@ -6,7 +6,7 @@
 
 <title>Heber Santana </title>
 
-<a href="https://www.linkedin.com/in/heber-santana-4583b6228/" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
  
 "Tenho 33 anos, sou do Guarujá, São Paulo, e sou apaixonada por programação! Sou uma pessoa 
