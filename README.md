@@ -1,5 +1,5 @@
 
-![1736022321400 png](https://github.com/user-attachments/assets/3df956c1-537a-4d06-9929-6cfb3e073cbc width="40" height="40")
+![1736022321400 png](https://github.com/user-attachments/assets/3df956c1-537a-4d06-9929-6cfb3e073cbc)
 
 
 
