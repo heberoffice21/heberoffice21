@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/Idade-33-blue?style=flat-square" alt="33">
   <img src="https://img.shields.io/badge/Local-Guarujá/SP-green?style=flat-square" alt="Guaruja">
   <img src="https://img.shields.io/badge/Profissão-Criador(a)_e_Analista_de_Conteúdo_Digital-purple?style=flat-square" alt="Criador(a) e Analista de Conteúdo Digital">
