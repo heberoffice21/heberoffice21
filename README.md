@@ -39,7 +39,9 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
     </ul>
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
+    <img src="https://github.com/user-attachments/assets/c9bd8f49-10f2-4600-af6f-6768fdc0ab4f" alt="freepik_br_914413a1-973c-43c4-b54b-c3f050d016c7" width="300" height="300" />
+
+    
   </div>
 </div>
 
