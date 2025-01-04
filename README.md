@@ -16,7 +16,7 @@
 
 💻 **Profissão:**  
 Atuo como **Criador(a) e Analista de Conteúdo Digital**, produzindo conteúdo para redes sociais e analisando o desempenho das publicações para otimizar resultados e monetização.  
-Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https://www.facebook.com/jonasleitenet)** e no meu **[YouTube](https://www.youtube.com/c/@JonasLeiteNet)**.  
+Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https://www.facebook.com/jonasleitenet)** e no meu **[YouTube](https://www.youtube.com/@JonasLeiteNet)**.  
 
 🌱 **Estudos e Projetos:**  
 - Estudando **Front-end** através da plataforma **Alura**.  
