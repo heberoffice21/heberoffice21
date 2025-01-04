@@ -1,6 +1,7 @@
-<p align="left">
+<p align="right">
   <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
 </p>
+
 
 
 
