@@ -1,12 +1,13 @@
-
-
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300"/>
 </p>
 
 # **Heber Santana**  
 
 <p align="center">
+  <!-- Seu conteúdo centralizado aqui -->
+</p>
+
   <img src="https://img.shields.io/badge/Idade-33-blue?style=flat-square" alt="33">
   <img src="https://img.shields.io/badge/Local-Guarujá/SP-green?style=flat-square" alt="Guaruja">
   <img src="https://img.shields.io/badge/Profissão-Criador(a)_e_Analista_de_Conteúdo_Digital-purple?style=flat-square" alt="Criador(a) e Analista de Conteúdo Digital">
