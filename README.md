@@ -52,6 +52,12 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
   </tr>
 </table>
 
+<!-- GIF Adicionado abaixo dos Objetivos -->
+<div class="tenor-gif-embed" data-postid="13167413482750165588" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">Hack Hacking Sticker</a> from <a href="https://tenor.com/search/hack-stickers">Hack Stickers</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ---
 
 ## 🌐 **Minhas Redes Sociais**  
