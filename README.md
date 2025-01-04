@@ -9,9 +9,7 @@
   </tr>
 </table>
 
-
-
-
+<p align="right">
   <img src="https://img.shields.io/badge/Idade-33-blue?style=flat-square" alt="33">
   <img src="https://img.shields.io/badge/Local-Guarujá/SP-green?style=flat-square" alt="Guaruja">
   <img src="https://img.shields.io/badge/Profissão-Criador(a)_e_Analista_de_Conteúdo_Digital-purple?style=flat-square" alt="Criador(a) e Analista de Conteúdo Digital">
@@ -29,10 +27,12 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
 🌱 **Estudos e Projetos:**  
 - Estudando **Front-end** através da plataforma **Alura**.  
 - Linguagens:  
-   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
 
 <table>
   <tr>
@@ -51,7 +51,6 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
     </td>
   </tr>
 </table>
-
 
 ---
 
