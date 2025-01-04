@@ -54,7 +54,7 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
 
 <!-- GIF embutido diretamente -->
 <p align="center">
-  <img src="https://media.tenor.com/images/13167413482750165588/hack-hacking-hacker-hackerman-programmer.gif" alt="Hack Hacking Sticker" width="300" height="300">
+  <img src="https://i.imgur.com/a/vPE7oFx.gif" alt="Hack Hacking Sticker" width="300" height="300">
 </p>
 
 ---
