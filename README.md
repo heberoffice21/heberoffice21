@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
-</p>
-
 # 👋 Olá, eu sou **[Heber Santana]**!  
 
 <p align="center">
@@ -27,8 +23,9 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Texto à esquerda -->
+  <div style="flex: 1;">
     <h3>🎯 Objetivos:</h3>
     <ul>
       <li>Aprimorar minhas habilidades em desenvolvimento web.</li>
@@ -38,6 +35,8 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
       <li>Explorar e aproveitar oportunidades internacionais para trabalhar com equipes e empresas globais.</li>
     </ul>
   </div>
+  
+  <!-- Imagem à direita -->
   <div style="flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/c9bd8f49-10f2-4600-af6f-6768fdc0ab4f" alt="freepik_br_914413a1-973c-43c4-b54b-c3f050d016c7" width="300" height="300" />
   </div>
