@@ -2,14 +2,6 @@
   <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
 </p>
 
-
-
-
-
-
-
-
-
 # 👋 Olá, eu sou **[Heber Santana]**!  
 
 <p align="center">
@@ -35,13 +27,21 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-🎯 **Objetivos:**  
-- Aprimorar minhas habilidades em desenvolvimento web.  
-- Dominar as principais ferramentas do **Front-end**, como **HTML**, **CSS**, **JavaScript** e **React**.
-- Contribuir para projetos colaborativos e open-source, agregando valor à comunidade de desenvolvedores.
-- Evoluir para uma carreira de **desenvolvedor completo**, expandindo para **Full-stack** e liderando projetos de desenvolvimento web.
-- Explorar e aproveitar oportunidades internacionais para trabalhar com equipes e empresas globais.
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>🎯 Objetivos:</h3>
+    <ul>
+      <li>Aprimorar minhas habilidades em desenvolvimento web.</li>
+      <li>Dominar as principais ferramentas do <strong>Front-end</strong>, como <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>React</strong>.</li>
+      <li>Contribuir para projetos colaborativos e open-source, agregando valor à comunidade de desenvolvedores.</li>
+      <li>Evoluir para uma carreira de <strong>desenvolvedor completo</strong>, expandindo para <strong>Full-stack</strong> e liderando projetos de desenvolvimento web.</li>
+      <li>Explorar e aproveitar oportunidades internacionais para trabalhar com equipes e empresas globais.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300" />
+  </div>
+</div>
 
 ---
 
