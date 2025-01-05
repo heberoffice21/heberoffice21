@@ -1,17 +1,19 @@
- ![snake gif](https://github.com/heberoffice21/heberoffice21/blob/output/github-contribution-grid-snake.gif)
+ 
 
 
 <table>
   <tr>
     <td>
       <h1><strong>Heber Santana</strong></h1>
-      ![snake gif](https://github.com/heberoffice21/heberoffice21/blob/output/github-contribution-grid-snake.gif)
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/e6757e3a-704d-4874-98bc-3c8b6d59e044" alt="freepik_br_a42a5b33-b0df-4614-9e0b-f5d1ccb36124" width="300" height="300"/>
     </td>
   </tr>
 </table>
+
+ ![snake gif](https://github.com/heberoffice21/heberoffice21/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Idade-33-blue?style=flat-square" alt="33">
