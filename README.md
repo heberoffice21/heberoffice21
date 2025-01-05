@@ -21,6 +21,14 @@
   <img src="https://img.shields.io/badge/Profissão-Criador(a)_e_Analista_de_Conteúdo_Digital-purple?style=flat-square" alt="Criador(a) e Analista de Conteúdo Digital">
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heberoffice21/heberoffice21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heberoffice21/heberoffice21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heberoffice21/heberoffice21/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 🚀 Sobre Mim  
 🎓 **Formação:**  
 - Formado em **Análise e Desenvolvimento de Sistemas**.  
