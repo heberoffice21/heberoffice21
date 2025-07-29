@@ -71,8 +71,9 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
 
 <!-- GIF embutido diretamente -->
 <p align="center">
-  <img src="[https://i.imgur.com/tQT4QfH.gif](https://tenor.com/pt-BR/view/typing-gif-gif-25597112)" alt="Hack Hacking Sticker" width="300" height="300">
+  <img src="https://media.tenor.com/IJEiS65c1F8AAAAM/typing-gif.gif" alt="Typing GIF" width="300" height="300">
 </p>
+
 
 ---
 
