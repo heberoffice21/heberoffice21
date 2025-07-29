@@ -70,7 +70,7 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
 
 <!-- GIF embutido diretamente -->
 <p align="center">
-  <img src="https://i.imgur.com/tQT4QfH.gif" alt="Hack Hacking Sticker" width="300" height="300">
+  <img src="https://imgur.com/a/EQ9oti3" alt="Hack Hacking Sticker" width="300" height="300">
 </p>
 
 
