@@ -69,9 +69,8 @@ Você pode conferir alguns dos meus projetos e conteúdo no **[Facebook](https:/
 
 
 
-<!-- GIF embutido diretamente -->
 <p align="center">
-  <img src="https://media.tenor.com/IJEiS65c1F8AAAAM/typing-gif.gif" alt="Typing GIF" width="300" height="300">
+  <img src="https://i.imgur.com/ipVY9tq.gif" alt="Typing GIF" width="300" height="300">
 </p>
 
 
