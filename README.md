@@ -91,15 +91,7 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heber-santana-4583b6228)
 
 ### 📈 Minha jornada de estudos!
-// Source - https://stackoverflow.com/a
-// Posted by Caleb
-// Retrieved 2025-11-24, License - CC BY-SA 4.0
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
  
