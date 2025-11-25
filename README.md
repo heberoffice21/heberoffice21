@@ -99,4 +99,12 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 </a>
 </div>
 
+<div align=center>
+
+<a href="https://github.com/WilsonFA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonFA&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFA&theme=tokyonight&layout=compact" />
+</a>
+</div>
+
  
