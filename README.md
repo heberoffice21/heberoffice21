@@ -8,17 +8,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;👩‍💻Im+Wilson+Fernandes....;Nice+to+meet+you!;&center=true&size=25">
- 
-</a>
-</h1>
-
 <table>
   <tr>
     <td>
