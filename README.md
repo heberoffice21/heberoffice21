@@ -93,5 +93,4 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 ### 📈 Minha jornada de estudos!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&layout=compact)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&layout=compact&theme=github_dark)
