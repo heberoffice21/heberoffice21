@@ -90,6 +90,3 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 📫 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heber-santana-4583b6228)
 
-### 📈 Minha jornada de estudos!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&hide_progress=true)
