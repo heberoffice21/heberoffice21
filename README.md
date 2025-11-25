@@ -28,6 +28,12 @@
   <img src="https://raw.githubusercontent.com/heberoffice21/heberoffice21/output/snake.svg" alt="Snake animation">
 </picture>
 
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
+  
+</div>
+
 
 ## 🚀 Sobre Mim  
 🎓 **Formação:**  
