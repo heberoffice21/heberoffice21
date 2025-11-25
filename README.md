@@ -93,7 +93,7 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 ### 📈 Minha jornada de estudos!
 <div align=center>
 
-<a href="https://github.com/WilsonFA">
+<a href="https://github.com/heberoffice21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heberoffice21&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&theme=tokyonight&layout=compact" />
 </a>
