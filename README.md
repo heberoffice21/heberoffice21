@@ -35,6 +35,13 @@
 </div>
 
 
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
+  
+</div>
+
+
 ## 🚀 Sobre Mim  
 🎓 **Formação:**  
 - Formado em **Análise e Desenvolvimento de Sistemas**.  
