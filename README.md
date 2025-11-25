@@ -91,7 +91,11 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heber-santana-4583b6228)
 
 ### 📈 Minha jornada de estudos!
-### 📊 Linguagens mais usadas
+<div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&layout=compact&theme=github_dark)
-
+<a href="https://github.com/WilsonFA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonFA&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFA&theme=tokyonight&layout=compact" />
+</a>
+</div>
+ 
