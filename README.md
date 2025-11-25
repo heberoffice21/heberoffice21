@@ -92,5 +92,20 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 
 ### 📈 Minha jornada de estudos!
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&layout=compact&theme=github_dark)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
