@@ -93,5 +93,5 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 ### 📈 Minha jornada de estudos!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  
