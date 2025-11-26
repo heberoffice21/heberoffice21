@@ -102,7 +102,7 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberoffice21&hide=javascript,html)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heberoffice21&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
