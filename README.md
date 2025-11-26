@@ -99,9 +99,6 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 [![Heber's GitHub stats](https://github-readme-stats-sigma-five-30.vercel.app/api?username=heberoffice21)](https://github.com/heberoffice21/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-sigma-five-30.vercel.app/api/top-langs/?username=heberoffice21&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
  
 
  
