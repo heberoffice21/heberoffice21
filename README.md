@@ -100,6 +100,7 @@ Você pode me encontrar e acompanhar meu trabalho nas seguintes redes sociais:
 
 ![Top Langs](https://github-readme-stats-sigma-five-30.vercel.app/api/top-langs/?username=heberoffice21&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
  
 
